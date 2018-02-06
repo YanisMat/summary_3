@@ -26,8 +26,9 @@
 }
 
 .logo {
-  display: block;
-  width: 180px;
+  left: 50px;
+  z-index: 300;
+  width: 32%;
 }
 
 .about {

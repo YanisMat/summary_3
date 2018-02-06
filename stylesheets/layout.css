@@ -14,7 +14,7 @@ a {
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 36px;
   color: #807E7E;
 }
 
@@ -43,8 +43,8 @@ body.landing .menubar {
   min-width: 768px;
 }
 
-body.posts .menubar,
+/* body.posts .menubar,
 body.landing .menubar div {
   background-color: #E5E5E5;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.05);
-}
+} */
