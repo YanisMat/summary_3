@@ -1,0 +1,13 @@
+.summary_check {
+  width: 60%;
+  background-color: black;
+}
+
+.summary_check {
+  height: 910px;
+  width: 865px;
+  position: absolute;
+  left: 650px;
+  top: 80px;
+  background-color: #F0F0F0;
+}
